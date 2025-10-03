@@ -1,6 +1,6 @@
 # NextJS Template
 
-A modern full-stack Next.js 15 TypeScript application template with FastAPI backend, featuring comprehensive UI components and security best practices. There is no secret recipe beyond all are one.
+A modern full-stack Next.js 15 TypeScript + Radix Ui application template with FastAPI backend, featuring comprehensive UI components and security best practices. There is no secret recipe beyond all are one.
 
 ## 📋 Table of Contents
 
