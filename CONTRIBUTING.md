@@ -19,8 +19,8 @@ We use GitHub to host code, to track issues and feature requests, as well as acc
 Fork the repository and create your branch from `master`:
 
 ```bash
-git clone https://github.com/your-username/my-app.git
-cd my-app
+git clone https://github.com/kasinadhsarma1/NextJs_Template.git
+cd NextJs_Template
 git checkout -b feature/AmazingFeature
 ```
 
